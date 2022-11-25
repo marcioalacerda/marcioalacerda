@@ -3,7 +3,7 @@
 </h1>
 
 
-### 🔭 Atualmente estou buscando transição de carreira para as áreas: Front-end e Back-end
+### 🔭 Atualmente estou buscando transição de carreira para as áreas: Front-end, Back-end e Cloud
 
 ##
 
@@ -58,7 +58,19 @@
   <img align="center" alt="Marcio-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Marcio-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
 </div>
-  
+
+## 🚀 Novos Desafios:
+
+<h4 align="center">
+  ☁️ Me Desafiando no Cloud:
+<//h4>
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="AWS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="GCP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-plain-wordmark.svg">
+  <img align="center" alt="Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-plain.svg">
+   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+</div>
+   
 ##
   
 ![Snake animation](https://github.com/marcioalacerda/marcioalacerda/blob/output/github-contribution-grid-snake.svg)
